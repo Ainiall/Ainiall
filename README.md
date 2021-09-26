@@ -1,4 +1,13 @@
+![Profile views](https://gpvc.arturio.dev/Ainiall)
 ### Hi there 👋
+
+<a href="https://github.com/Ainiall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ainiall&show_icons=true&theme=material-palenight&line_height=20" />
+</a>
+<a href="https://github.com/Ainiall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainiall&layout=compact&theme=material-palenight" />
+</a>
+
 
 <!--
 **Ainiall/Ainiall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
