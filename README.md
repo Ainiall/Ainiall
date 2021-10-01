@@ -2,12 +2,11 @@
 ### Hi there 👋
 
 <a href="https://github.com/Ainiall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ainiall&show_icons=true&theme=material-palenight&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ainiall&show_icons=true&count_private=true&theme=material-palenight&line_height=20" />
 </a>
 <a href="https://github.com/Ainiall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainiall&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ainiall&langs_count=10&layout=compact&theme=material-palenight" />
 </a>
-
 
 <!--
 **Ainiall/Ainiall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
