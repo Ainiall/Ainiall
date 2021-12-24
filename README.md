@@ -6,7 +6,7 @@
 
 ## 𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 𝓘'𝓶 𝓐𝓲𝓷𝓲𝓪𝓵𝓵
 
-I'm currently a software engineer student based in 🌁 [Oviedo, Spain](https://duckduckgo.com/?q=maps+oviedo+spain&t=newext&atb=v288-1&ia=web&iaxm=maps)
+I'm currently a software engineering student based in 🌁 [Oviedo, Spain](https://duckduckgo.com/?q=maps+oviedo+spain&t=newext&atb=v288-1&ia=web&iaxm=maps)
 
 I like different areas of computer science and I consider myself a very versatile person. I enjoy `creating apps 📱`, `AI 🤖` and `cloud computing☁️`
 
