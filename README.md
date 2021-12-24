@@ -61,6 +61,54 @@ I also love design 🎨
 ### 📊 𝓢𝓸𝓶𝓮 𝓼𝓽𝓪𝓽𝓼
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%204%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    40 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+🌆 Daytime    60 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
+🌃 Evening    76 commits     █████████░░░░░░░░░░░░░░░░   36.19% 
+🌙 Night      34 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Tuesday      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+Thursday     68 commits     ████████░░░░░░░░░░░░░░░░░   32.38% 
+Friday       26 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
+Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.1% 
+Sunday       41 commits     █████░░░░░░░░░░░░░░░░░░░░   19.52%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 24/12/2021
 <!--END_SECTION:waka-->
 
 <p align="center">  
