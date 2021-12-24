@@ -2,6 +2,8 @@
 <a href="https://www.linkedin.com/in/ainiall/"><img src="https://img.shields.io/badge/-@ainiall-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ainiall/" alt="LinkedIn Badge"> </a>
 [![](https://img.shields.io/badge/Aini%236138-lightgrey?style=flat-square&logo=Discord)](https://discord.com)
 
+![hello](https://raw.githubusercontent.com/Ainiall/Ainiall/master/header.gif)
+
 ## 𝓗𝓮𝓵𝓵𝓸 𝓽𝓱𝓮𝓻𝓮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, 𝓘'𝓶 𝓐𝓲𝓷𝓲𝓪𝓵𝓵
 
 I'm currently a software engineer student based in 🌁 [Oviedo, Spain](https://duckduckgo.com/?q=maps+oviedo+spain&t=newext&atb=v288-1&ia=web&iaxm=maps)
