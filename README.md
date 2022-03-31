@@ -61,6 +61,8 @@ I also love design 🎨
 ### 📊 𝓢𝓸𝓶𝓮 𝓼𝓽𝓪𝓽𝓼
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2012%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -92,16 +94,20 @@ Sunday       20 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               14 mins             ███████████████░░░░░░░░░░   62.56% 
+HTML                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   22.41% 
+Java                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          17 mins             ██████████████████░░░░░░░   73.74% 
+sdi-entrega2-2021-713    6 mins              ██████░░░░░░░░░░░░░░░░░░░   26.26% 
+phx-bot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.0%
 
 ```
 
@@ -118,7 +124,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2022 22:18:59 UTC
+ Last Updated on 31/03/2022 01:07:43 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">  
