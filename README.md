@@ -61,6 +61,8 @@ I also love design 🎨
 ### 📊 𝓢𝓸𝓶𝓮 𝓼𝓽𝓪𝓽𝓼
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2015%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -92,17 +94,16 @@ Sunday       20 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-HTML                     2 mins              ██████████████████████░░░   89.96% 
-JavaScript               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   10.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -119,7 +120,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2022 22:19:00 UTC
+ Last Updated on 12/04/2022 01:10:54 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">  
