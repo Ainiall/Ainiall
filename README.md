@@ -61,7 +61,7 @@ I also love design 🎨
 ### 📊 𝓢𝓸𝓶𝓮 𝓼𝓽𝓪𝓽𝓼
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -94,16 +94,21 @@ Sunday       16 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   54 mins             ████████████░░░░░░░░░░░░░   49.07% 
+Groovy                   24 mins             █████░░░░░░░░░░░░░░░░░░░░   22.2% 
+XML                      14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96% 
+Properties               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           1 hr 52 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BetterPlace              1 hr 48 mins        ████████████████████████░   96.97% 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 52 mins        █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +125,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2022 22:17:06 UTC
+ Last Updated on 20/05/2022 01:22:23 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">  
