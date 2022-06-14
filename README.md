@@ -61,7 +61,7 @@ I also love design 🎨
 ### 📊 𝓢𝓸𝓶𝓮 𝓼𝓽𝓪𝓽𝓼
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -129,7 +129,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2022 18:23:10 UTC
+ Last Updated on 14/06/2022 20:19:30 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">  
